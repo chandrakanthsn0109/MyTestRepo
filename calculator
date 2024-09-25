@@ -1,2 +1,8 @@
 Division int a ,b
 return a/b
+
+Chandrakanth S N
+
+void add(int a,int b){
+ int c=a+b;
+}
